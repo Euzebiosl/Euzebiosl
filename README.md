@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Euzébio</h1>
-<h3 align="center">Welcome to my Github profile!</h3>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
 
 <div align="center">
   <img src="https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp" alt="typing-gif" width="400"/>
@@ -7,8 +7,8 @@
 
 ---
 
-- 💬 Ask me about **Java, tests, JavaScript, Docker, and anything related to software development OR anything else you want! :D**
-- 📫 How to reach me **matheus.euzebio@gmail.com**
+- 💬 **Ask me about:** Java, testing, JavaScript, Docker, and anything related to software development—or anything else you want! :D
+- 📫 **How to reach me:** matheus.euzebio@gmail.com
 
 ---
 
@@ -78,4 +78,20 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a
+  </a>
+</p>
+
+---
+
+<h3 align="left">About Me:</h3>
+<p align="left">
+  I'm a passionate software developer with a strong background in Java and JavaScript. I enjoy working on challenging projects and am always eager to learn new technologies and improve my skills. I have experience in developing scalable applications and am interested in topics related to cloud computing, microservices, and DevOps practices.
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Euzebiosl&show_icons=true&theme=dark&count_private=true" alt="Matheus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euzebiosl&layout=compact&theme=dark" alt="Top Languages" />
+</div>
