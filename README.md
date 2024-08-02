@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github profile!</h3>
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/typing-gif-gif-25597112.gif" alt="typing-gif" width="400"/>
+  <img src="https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp" alt="typing-gif" width="400"/>
 </div>
 
 ---
